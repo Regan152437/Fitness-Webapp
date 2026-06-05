@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="40" fill="#0a0c0f"/>
+  <rect width="192" height="192" rx="40" fill="url(#g)"/>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="192" y2="192" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1a1208"/>
+      <stop offset="100%" stop-color="#0a0c0f"/>
+    </linearGradient>
+  </defs>
+  <text x="96" y="115" font-size="90" text-anchor="middle" font-family="system-ui">💪</text>
+  <text x="96" y="160" font-size="18" font-weight="900" text-anchor="middle" font-family="system-ui, sans-serif" fill="#f97316" letter-spacing="2">6 BULAN</text>
+</svg>
